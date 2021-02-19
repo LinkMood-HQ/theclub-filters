@@ -21,3 +21,5 @@ export {
   Filter,
   None,
 };
+
+console.log(DeepARFilter.Bone === "bone");
