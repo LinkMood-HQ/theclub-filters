@@ -1,0 +1,15 @@
+{
+  "name": "theclub-filters",
+  "version": "1.0.0",
+  "description": "DeepAR Filters for TheCLUB's web apps",
+  "main": "index.js",
+  "repository": "git@github.com:LinkMood-HQ/theclub-filters.git",
+  "author": "Jack Pordi",
+  "private": true,
+  "dependencies": {
+    "typescript": "^4.1.5"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
