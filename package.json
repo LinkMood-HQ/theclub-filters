@@ -1,6 +1,6 @@
 {
   "name": "theclub-filters",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "DeepAR Filters for TheCLUB's web apps",
   "main": "index.js",
   "repository": "git@github.com:LinkMood-HQ/theclub-filters.git",
